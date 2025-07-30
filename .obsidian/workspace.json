@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Кузнец.md",
+                "file": "Ремесленник-класс.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Кузнец"
+              "title": "Ремесленник-класс"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Кузнец.md",
+                "file": "Ремесленник-класс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Кузнец"
+              "title": "Исходящие ссылки из Ремесленник-класс"
             }
           },
           {
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Кузнец.md",
+                "file": "Ремесленник-класс.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Кузнец"
+              "title": "Структура Ремесленник-класс"
             }
           },
           {
@@ -181,7 +181,7 @@
   },
   "active": "f1efb78f6c67a264",
   "lastOpenFiles": [
-    "Кузнец.md",
+    "Ремесленник-класс.md",
     "Добро пожаловать.md"
   ]
 }
